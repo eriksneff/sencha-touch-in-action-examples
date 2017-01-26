@@ -1,0 +1,13 @@
+{
+	"extra": {
+		"heroku": {
+			"document-root": "web",
+			"index-document": "index.html",
+			"engines": {
+				"php": "default",
+				"nginx": "default"
+			},
+			"newrelic": true
+		}
+	}
+}
